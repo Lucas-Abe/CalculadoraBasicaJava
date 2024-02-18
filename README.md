@@ -6,4 +6,5 @@ Possui uma função extra para transformar números decimais para binários e vi
 Mudanças a serem feitas:
 
 -Reformular a apresentação da calculadora.
+
 -Adicionar mais funções.
